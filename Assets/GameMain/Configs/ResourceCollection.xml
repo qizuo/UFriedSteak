@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="DataTables/BattleFinImgData1" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData10" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData2" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData3" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData4" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData5" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData6" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData7" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData8" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleFinImgData9" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData1" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData10" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData11" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData12" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData13" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData14" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData15" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData16" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData17" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData18" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData19" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData2" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData20" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData21" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData22" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData23" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData24" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData25" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData26" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData27" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData28" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData29" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData3" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData30" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData4" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData5" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData6" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData7" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData8" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleHindData9" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/BattleLevelData" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Entity" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Music" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Scene" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Sound" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/UIForm" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/UISound" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Weapon" LoadType="0" Packed="False" />
+    </Resources>
+    <Assets>
+      <Asset Guid="02e26e4348a10104da89ef3c89c08ed1" ResourceName="DataTables/Music" />
+      <Asset Guid="06070cc4bd54f384faf9bf829d67f902" ResourceName="DataTables/BattleHindData11" />
+      <Asset Guid="071bc2e6596796745beefa0df2f28f35" ResourceName="DataTables/UISound" />
+      <Asset Guid="0893129671619af4ab81c05ffcfbecf8" ResourceName="DataTables/Scene" />
+      <Asset Guid="0c7bd40ee8d16004c91ef9f78da3b220" ResourceName="DataTables/Scene" />
+      <Asset Guid="0d57fa25c6df3c645aff1175eb48fb0c" ResourceName="DataTables/BattleFinImgData5" />
+      <Asset Guid="0d994d95f6228d447bfd6b7a47b10cf8" ResourceName="DataTables/BattleLevelData" />
+      <Asset Guid="16eccbce6c87c604e8c0ff7555a3408b" ResourceName="DataTables/BattleHindData23" />
+      <Asset Guid="1b91dae512f49f14fa695e68e1e2169c" ResourceName="DataTables/Entity" />
+      <Asset Guid="24f399cf378bd9340be5d4ac1a71b8ff" ResourceName="DataTables/BattleHindData22" />
+      <Asset Guid="26f813122ef91dc49b34e896bc33ffc8" ResourceName="DataTables/UIForm" />
+      <Asset Guid="2b3ddf9e85afc6547ab0938c4bdf3e85" ResourceName="DataTables/BattleHindData21" />
+      <Asset Guid="3830b065f4deaf84f9d0560ee0cefbee" ResourceName="DataTables/BattleHindData8" />
+      <Asset Guid="3838e902bf603364caa89a4de8966f99" ResourceName="DataTables/BattleHindData3" />
+      <Asset Guid="3e6682619b5c3f74e804669014af9bd7" ResourceName="DataTables/BattleHindData28" />
+      <Asset Guid="402be733d5e09ce4d91d2161434d0123" ResourceName="DataTables/BattleFinImgData4" />
+      <Asset Guid="458de71dae8f390479d22f443d8441bb" ResourceName="DataTables/BattleHindData27" />
+      <Asset Guid="4e8ee1851d417464b8919b981bd5cf36" ResourceName="DataTables/UIForm" />
+      <Asset Guid="551d451be73d9ab479f3c1e31b0dbe66" ResourceName="DataTables/BattleHindData1" />
+      <Asset Guid="55fa833bc99a6154fac9fcea46e6cc4d" ResourceName="DataTables/BattleHindData4" />
+      <Asset Guid="578d3b76eb6bd6b42a49792fcdc43937" ResourceName="DataTables/BattleHindData5" />
+      <Asset Guid="57fd2518bf30f514bb03e045f0359662" ResourceName="DataTables/BattleFinImgData9" />
+      <Asset Guid="581532bf66c17d24ea3ccef266f97e6b" ResourceName="DataTables/BattleFinImgData3" />
+      <Asset Guid="63479171e8b64b24aa4e957f6fa09222" ResourceName="DataTables/BattleHindData2" />
+      <Asset Guid="6930dbb39caeadb4182d390accaa04bc" ResourceName="DataTables/BattleHindData26" />
+      <Asset Guid="707268318d0350949abfb8cd90732570" ResourceName="DataTables/BattleHindData16" />
+      <Asset Guid="73b7c91ea68a79942978be2ca6944423" ResourceName="DataTables/BattleHindData24" />
+      <Asset Guid="73c6972496d094843b77372345ff2c9d" ResourceName="DataTables/Music" />
+      <Asset Guid="759aaf3a1f4a4e24280422694d816a9c" ResourceName="DataTables/Weapon" />
+      <Asset Guid="787717e661c437541962e9e81b86ec66" ResourceName="DataTables/BattleHindData29" />
+      <Asset Guid="7a24617f7bdf2d845b556327c9b45355" ResourceName="DataTables/BattleHindData18" />
+      <Asset Guid="8eb7e71ac5280584c8ab63ec5ae47930" ResourceName="DataTables/BattleHindData9" />
+      <Asset Guid="90754ab612341bf45b118087e80edfdc" ResourceName="DataTables/BattleFinImgData2" />
+      <Asset Guid="92f1b4662d919ed48a465b6d52c81add" ResourceName="DataTables/Weapon" />
+      <Asset Guid="96c8c6d95128f43499d83ed81e49d0f0" ResourceName="DataTables/Sound" />
+      <Asset Guid="9ded374a870732240b805af77622c43d" ResourceName="DataTables/BattleHindData20" />
+      <Asset Guid="9fa682674f78d9a4e8a2ffa7ba2cfb8e" ResourceName="DataTables/BattleHindData10" />
+      <Asset Guid="9ff9bd8d337d84a42b3326794758fe93" ResourceName="DataTables/BattleHindData6" />
+      <Asset Guid="a83916b7a98270f47af272138d018175" ResourceName="DataTables/Entity" />
+      <Asset Guid="b798c2ab1034dca409ab43587dde780e" ResourceName="DataTables/BattleHindData15" />
+      <Asset Guid="bf0c864edd6e6254f8031b91a69d1f56" ResourceName="DataTables/BattleHindData13" />
+      <Asset Guid="bf34408f5ab03e343a00317766473b1d" ResourceName="DataTables/BattleFinImgData6" />
+      <Asset Guid="c0968113196a97744bfe8ad928b699b6" ResourceName="DataTables/BattleHindData30" />
+      <Asset Guid="cbfe73ab729ac6547b650456a3bda3c7" ResourceName="DataTables/UISound" />
+      <Asset Guid="cc4067500d3c0de41847fc1f99a88f7f" ResourceName="DataTables/BattleHindData19" />
+      <Asset Guid="d2993331ec302104699e06701a716bd3" ResourceName="DataTables/BattleFinImgData7" />
+      <Asset Guid="d6bf9cc2d30271441a2e9c1a044831c3" ResourceName="DataTables/BattleHindData17" />
+      <Asset Guid="db36463c2bd02f0448d5f5b508878790" ResourceName="DataTables/BattleHindData7" />
+      <Asset Guid="db8019fef4237db469d1b97135a10276" ResourceName="DataTables/Sound" />
+      <Asset Guid="ddebce3b0c501a641a741f3a5794e3b0" ResourceName="DataTables/BattleHindData25" />
+      <Asset Guid="e0eaef2fb679d6f4f9a3a2d5727a5a99" ResourceName="DataTables/BattleFinImgData1" />
+      <Asset Guid="e74f543b28762e544a28ee3510c3706d" ResourceName="DataTables/BattleFinImgData10" />
+      <Asset Guid="eb77f91878ad83743b9a2e266ff264ae" ResourceName="DataTables/BattleLevelData" />
+      <Asset Guid="f34bd5c695b68d04cb87b7b3f1fda721" ResourceName="DataTables/BattleFinImgData8" />
+      <Asset Guid="f484bad500bd32149b02efa28a6657a3" ResourceName="DataTables/BattleHindData14" />
+      <Asset Guid="f5988452a92827b4a9e32d4763ec1803" ResourceName="DataTables/BattleHindData12" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

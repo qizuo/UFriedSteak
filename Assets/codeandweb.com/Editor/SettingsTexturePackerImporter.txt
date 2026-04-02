@@ -1,0 +1,15 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/GameMain/UI/UISprite/atlas/unusual1.tpsheet
+- Assets/GameMain/UI/UISprite/atlas/unusual11.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/GameMain/UI/UISprite/atlas/unusual1.png
+- Assets/GameMain/UI/UISprite/atlas/unusual11.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+enableDebugOutput: 0

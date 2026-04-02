@@ -11,10 +11,9 @@ using DG.Tweening;
 using GameFramework.Resource;
 using UnityGameFramework.Runtime;
 using GameEntry = StarForce.GameEntry;
-using GameAnalyticsSDK;
-using com.adjust.sdk;
+// using com.adjust.sdk;
 using UnityEngine.EventSystems;
-using Voodoo.Sauce.Internal;
+// using Voodoo.Sauce.Internal;
 // using Adjust;
 public class MainForm : UGuiForm
 {
@@ -122,7 +121,7 @@ public class MainForm : UGuiForm
 
     void showLosePl(){
         // Debug.Log("gam over");
-        GameAnalytics.NewProgressionEvent(GAProgressionStatus.Fail,"sr01");
+        // GameAnalytics.NewProgressionEvent(GAProgressionStatus.Fail,"sr01");
         losePlObj.SetActive(true);
         // levOnLoseTt.text = "level:"+curLevel;
     }
@@ -1699,7 +1698,7 @@ public class MainForm : UGuiForm
     //重来
     void initUI(bool isFirst = false){
 
-        TinySauce.OnGameStarted(levelNumber:curLevel+"");
+        // TinySauce.OnGameStarted(levelNumber:curLevel+"");
         clearSceneObj();        
 
         prtyPlObj.SetActive(true);
@@ -2029,7 +2028,7 @@ public class MainForm : UGuiForm
             startPlObj.SetActive(true);
             curLevel++;
             refreshCurDay();
-            TinySauce.OnGameFinished(true,curLevel);
+            // TinySauce.OnGameFinished(true,curLevel);
             DataManage.SetInt("curLevel",curLevel);
             staGmBtn.onClick.RemoveAllListeners();
             staGmBtn.onClick.AddListener(delegate(){
